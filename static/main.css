@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.bg-sky {
+  background-color: #87CEEB
+}
+
+.card-style {
+  width: 60rem;
+  background-color: #FFFFFF;
+  border-radius: 1.5rem;
+  border-color: #ff0000;
+  border-width: 0.3rem;
+}
+
+.button-width {width: 100%;}
+
+.bg-image0 {
+  background-image: url('/static/images/broken_clouds.png');
+}
+
+.bg-image1 {
+  background-image: url('/static/images/clear_sky.png');
+}
+
+.bg-image2 {
+  background-image: url('/static/images/few_clouds.png');
+}
+
+.bg-image3 {
+  background-image: url('/static/images/heavy_intensity_rain.png');
+}
+
+.bg-image4 {
+  background-image: url('/static/images/light_rain.png');
+}
+
+.bg-image5 {
+  background-image: url('/static/images/light_snow.png');
+}
+
+.bg-image6 {
+  background-image: url('/static/images/moderate_rain.png');
+}
+
+.bg-image7 {
+  background-image: url('/static/images/overcast_clouds.png');
+}
+
+.bg-image8 {
+  background-image: url('/static/images/scattered_clouds.png');
+}
+
+.bg-image9 {
+  background-image: url('/static/images/snow.png');
+}
